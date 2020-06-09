@@ -3,3 +3,4 @@ class FileValidation
     return true if File.exist?(file) && File.extname(file) == '.rb'
   end
 end
+file =FileValidation.new
