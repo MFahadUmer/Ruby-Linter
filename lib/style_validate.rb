@@ -14,7 +14,7 @@ class StyleError
   def comma_with_space(line)
     error_array = []
     line.each_with_index do |x, index|
-      a = (0...x.length).find_all { |y| x[y] == ',' }
+      (0...x.length).find_all { |y| x[y] == ',' }
       if x.match(/\s+[,]/)
         error_array.push("Space before Comma found. Line No. #{index + 1}")
       elsif x.match(/[,][^\s?]/)
@@ -42,7 +42,7 @@ class StyleError
     end
     space_hash.each do |x, y|
       if lines[x - 1].match(/^\s{#{y + 1}}[\w]*/)
-      error_array.push("StyleError:Indentation at Line no. #{x}  Indentations required: #{y}")
+        error_array.push("StyleError:Indentation at Line no. #{x}  Indentations required: #{y}")
       end
     end
     error_array
