@@ -2,12 +2,6 @@
 
 > Ruby Linter is my capstone project. In this project i have used all the material that I learn in Ruby section. In this project I need to create linter for beginners. I used and learned Regular Expression in this project for validation.
 
-![screenshot](./capstone_1.png)
-![screenshot](./capstone_2.png)
-![screenshot](./capstone_3.png)
-![screenshot](./capstone_4.png)
-![screenshot](./capstone_5.png)
-
 Additional description about the project and its features.
 In this project I've created Validation for 4 basic styles
 - Space after comma
@@ -27,6 +21,14 @@ In this project I've created Validation for 4 basic styles
 **Need Ruby Installed.** to run the code
 **Need Terminal** to test the code
 
+## Automated Test
+
+Test cases for
+- File Validation
+- Indentations
+- Space after comma
+- Space between method name and paranthesis
+
 To get a local copy up and running follow these simple example steps.
 
 ### Download Repository (https://github.com/MFahadUmer/Ruby-Linter)
@@ -35,7 +37,6 @@ To get a local copy up and running follow these simple example steps.
 ### bin/linter.rb
 
 ## Authors
-
 
 👤 **Muhammad Fahad Umer**
 
@@ -53,3 +54,8 @@ Feel free to check the [issues page](https://github.com/MFahadUmer/Enumerable).
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Got help in Regex from [Corey Schafer](https://www.youtube.com/watch?v=sa-TUpSx1JA)
+- Special Thanks to [Microverse] (microverse.org)
+- etc

@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 require_relative '../lib/file_validation.rb'
-require_relative '../lib/style_validate.rb'
+require_relative '../lib/style_error.rb'
 puts 'Welcome to Linter'
 file_validation = false
 while file_validation == false
@@ -26,6 +26,7 @@ file = File.open(file, 'r')
 while (line = file.gets)
   lines << line
 end
+p lines
 validate = StyleError.new
 method_validate = validate.space_between_method_parenthesis(lines)
 method_validate.each { |x| puts x } unless method_validate.empty?

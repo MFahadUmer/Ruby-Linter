@@ -28,7 +28,7 @@ class StyleError
 
   def indentation(lines)
     error_array = []
-    my_array = ['if', 'def', '{', 'class', 'module', 'unless']
+    my_array = ['def', 'if', '{', 'class', 'module', 'unless']
     spaces = 0
     space_hash = { 1 => 0 }
     lines.each_with_index do |x, index|
