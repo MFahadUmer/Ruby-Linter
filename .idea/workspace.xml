@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f34f66f-c41c-4111-bcb1-f83d9c947d63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/capstone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/capstone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/linter.rb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/linter.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/style_validate.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/linter_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/linter_spec.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dBomf2FmSNlYliUCNVNp15TuIs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f34f66f-c41c-4111-bcb1-f83d9c947d63" name="Default Changelist" comment="" />
+      <created>1591908007494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591908007494</updated>
+      <workItem from="1591908013488" duration="176000" />
+      <workItem from="1591908210502" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
